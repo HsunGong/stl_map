@@ -120,6 +120,7 @@
     <ClInclude Include="class-matrix.hpp" />
     <ClInclude Include="exceptions.hpp" />
     <ClInclude Include="map.hpp" />
+    <ClInclude Include="redblack_map.hpp" />
     <ClInclude Include="utility.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

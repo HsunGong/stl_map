@@ -20,6 +20,7 @@ public:
 	pair(const pair<U1, U2> &other) : first(other.first), second(other.second) {}
 	template<class U1, class U2>
 	pair(pair<U1, U2> &&other) : first(other.first), second(other.second) {}
+	//make pair 
 };
 
 }
